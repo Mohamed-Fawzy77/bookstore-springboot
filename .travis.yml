@@ -1,0 +1,3 @@
+langauage: java
+jdk:
+  - openjdk17
